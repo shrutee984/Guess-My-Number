@@ -1,4 +1,4 @@
-Guess-My-Number
+# Guess-My-Number
 Description:  This simple yet engaging game challenges players to guess a randomly generated number within a specified range. It's a fun project.
 Firstly we have to enter a number it checks that it low or high of that unknown number. Then we have to guess the unknown number. It is quite Interesting.
 Objective:  The theme of this game is kind of retro design.  In this simply we have to guess the number from 1 to 20.
